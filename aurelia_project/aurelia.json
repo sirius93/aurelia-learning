@@ -63,6 +63,49 @@
           "aurelia-task-queue",
           "aurelia-templating",
           "aurelia-templating-binding",
+          "aurelia-fetch-client",
+          {
+            "name": "firebase/app",
+            "main": "./firebase-app.js",
+            "path": "../node_modules/firebase",
+            "resources": []
+          },
+          {
+            "name": "firebase/auth",
+            "main": "./firebase-auth.js",
+            "path": "../node_modules/firebase",
+            "resources": []
+          },
+          {
+            "name": "firebase/database",
+            "main": "./firebase-database.js",
+            "path": "../node_modules/firebase",
+            "resources": []
+          },
+          {
+            "name": "firebase/messaging",
+            "main": "./firebase-messaging.js",
+            "path": "../node_modules/firebase",
+            "resources": []
+          },
+          {
+            "name": "firebase/storage",
+            "main": "./firebase-storage.js",
+            "path": "../node_modules/firebase",
+            "resources": []
+          },
+          {
+            "name": "firebase",
+            "main": "./index.js",
+            "path": "../node_modules/firebase",
+            "resources": []
+          },
+          {
+            "name": "rxjs",
+            "main": "./bundles/Rx.js",
+            "path": "../node_modules/rxjs",
+            "resources": []
+          },
           {
             "name": "aurelia-templating-resources",
             "path": "../node_modules/aurelia-templating-resources/dist/amd",

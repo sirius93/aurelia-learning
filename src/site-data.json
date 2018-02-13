@@ -1,0 +1,102 @@
+{
+	"siteData": {
+		"experienceData": {
+			"title": "Company Name",
+			"href": "www.company.com",
+			"timeStamp": "sep-11 to ocotober 17",
+			"role": "Front End Dev"
+		},
+		"progressBar": [{
+				"title": "HTML",
+				"maxValue": 100,
+				"value": 70,
+				"dataValue": 30
+			},
+			{
+				"title": "CSS",
+				"maxValue": 100,
+				" value": 55,
+				"dataValue": 30
+			},
+			{
+				"title": "JAVASCRIPT",
+				"maxValue": 100,
+				"value": 80,
+				"dataValue": 30
+			},
+			{
+				"title": "ANGULAR",
+				"maxValue": 100,
+				"value": 65,
+				"dataValue": 30
+			}
+		],
+		"HeroBannerData": {
+			"heading": "Front End Developer",
+			"SubHeading": "<em>Hey I am a Nandan</em>",
+			"description": "Specializing in building everything from small business sites to rich interactive web apps."
+		},
+		"ProjectData": [{
+				"anchor": {
+					"anchorText": "w3c.com",
+					"anchorLink": "#",
+					"imgSrc": "https://bulma.io/images/placeholders/1280x960.png"
+				},
+				"tags": ["HTML", "CSS", "JS"]
+
+			},
+			{
+				"anchor": {
+					"anchorText": "w3c.com",
+					"anchorLink": "#",
+					"imgSrc": "https://bulma.io/images/placeholders/1280x960.png"
+				},
+				"tags": ["HTML", "CSS", "JS"]
+
+			},
+			{
+				"anchor": {
+					"anchorText": "w3c.com",
+					"anchorLink": "#",
+					"imgSrc": "https://bulma.io/images/placeholders/1280x960.png"
+				},
+				"tags": ["HTML", "CSS", "JS"]
+
+			},
+			{
+				"anchor": {
+					"anchorText": "w3c.com",
+					"anchorLink": "#",
+					"imgSrc": "https://bulma.io/images/placeholders/1280x960.png"
+				},
+				"tags": ["HTML", "CSS", "JS"]
+			}
+		],
+		"educationContent": [{
+				"timeline": "2018(expected)",
+				"course": "BE computer Science",
+				"school": "VTU"
+			},
+			{
+				"timeline": "2018(expected)",
+				"course": "BE computer Science",
+				"school": "VTU"
+			}
+		],
+		"contactMe": {
+			"header": "Feel free to contact",
+			"mail": "nandan.1345@gmail.com",
+			"links": [{
+					"target": "_blank",
+					"href": "facebook.com/nandank93",
+					"class": "fa fa-facebook"
+				},
+				{
+					"target": "_blank",
+					"href": "facebook.com/nandank93",
+					"class": "fa fa-twitter"
+				}
+			]
+		}
+	}
+}
